@@ -4,7 +4,7 @@ I´m a student at IFSP (Federal Institute of São Paulo) making my final paper a
 - 🌱 I’m currently learning NodeJS and ReactJS.
 - 🤝 I’m new at github, I´ll start publishing more and often. 
 
-![Luc2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc2000&show_icons=true&theme=dark)]
+![Luc2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc2000&show_icons=true&theme=dark)
 
 
 :rocket: At the moment I´m seeking to develop my skill in:<br> 
