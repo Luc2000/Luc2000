@@ -3,6 +3,7 @@ I´m a student at IFSP (Federal Institute of São Paulo) making my final paper a
 - 🔭 I’m currently working on my final paper and some personal projects.
 - 🌱 I’m currently learning NodeJS and ReactJS.
 - 🤝 I’m new at github, I´ll start publishing more and often. 
+- Portfólio: <a href="https://annunziato.dev/" target="_blank">https://annunziato.dev/</a>
 
 ![Luc2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc2000&show_icons=true&theme=dark)
 
