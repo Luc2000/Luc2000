@@ -3,6 +3,7 @@
 🗺️ I´m currently living in São Paulo, Brazil. But always looking for opportunities to take a course somewhere in the world.<br><br>
 
 PT-BR (English Version bellow):
+
 Apaixonado pelo universo da tecnologia e inovação, atuo como Desenvolvedor de Software no TradersClub - TC. Concluí minha formação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, enriquecida por cursos especializados na IBM, Rocketseat, Alura e EBAC, focando tanto em programação quanto em design. Possuo um forte interesse e entusiasmo por Inteligência Artificial. Estou sempre buscando expandir meu conhecimento nessa área, visando integrar soluções inovadoras de IA nos projetos em que trabalho.
 
 Com proficiência em inglês, certificado pelo CNA e nível B2 de Cambridge, estou sempre em busca de novos conhecimentos. Atualmente, participo da nova trilha Ignite da Rocketseat focada em React e de cursos no G4 para aprimorar minhas habilidades em gestão e liderança.
