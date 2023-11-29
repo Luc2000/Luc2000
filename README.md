@@ -18,6 +18,7 @@ Apesar de não ter aprofundado muito nos estudos, minha formação acadêmica ta
 Para mais detalhes sobre mim e projetos realizados, confira meu portfólio (https://annunziato.dev/) e meu Github (https://github.com/Luc2000).
 
 EN-US:
+
 Passionate about the world of technology and innovation, I work as a Software Developer at TradersClub - TC. I completed my degree in Systems Analysis and Development at the Federal Institute of São Paulo, enhanced by specialized courses at IBM, Rocketseat, Alura, and EBAC, focusing on both programming and design. I have a strong interest and enthusiasm for Artificial Intelligence and am always seeking to expand my knowledge in this area, aiming to integrate innovative AI solutions into the projects I work on.
 
 With proficiency in English, certified by CNA and at the B2 level by Cambridge, I am constantly in pursuit of new knowledge. Currently, I am participating in Rocketseat's new Ignite track focused on React and in courses at G4 to improve my management and leadership skills.
