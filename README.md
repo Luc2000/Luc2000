@@ -59,11 +59,3 @@ I combine three key pillars:
 **🔗 Let's Connect:**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasannunziato/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/l_annunziato/) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:lucassouzaannunziato@gmail.com) [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://lucasannunziato.com)
-
----
-
-📊 **GitHub Stats:**
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc2000&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc2000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
